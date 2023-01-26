@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+*Full-stack Web Dev from Lighthouse Labs*
+
 ### 🐕 A little about me...
 ```
 const canadian = {
