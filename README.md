@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### 🐕 A little about me...
 ```
 const canadian = {
   pronouns: 'he' | 'him',
@@ -12,3 +13,5 @@ const canadian = {
   }
 }
 ```
+
+## 😎 I love meeting with new and different people so if you have some advice, need some help, or just want to talk give me a shout!
