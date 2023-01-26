@@ -7,7 +7,7 @@
 const canadian = {
   pronouns: 'he' | 'him',
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'C#', 'SQL', 'Java'],
-  askMeAbout: ['Wall-climbing', 'Web dev', 'Games'],
+  askMeAbout: ['Wall-climbing', 'Web dev', 'Games', 'Aviation'],
   technologies: {
     frameworksAndLibraries: ['NextJs', 'React', 'NodeJs', 'Express', 'Ajax', 'JQuery', 'TailwindCss'],
     systemsAndDatabases: ['PostgreSql', 'Git'],
