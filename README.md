@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Full-stack Web Dev from Lighthouse Labs*
+*Full-stack Web Dev from [Lighthouse Labs](https://www.lighthouselabs.ca/)*
 
 ### 🐕 A little about me...
 ```
