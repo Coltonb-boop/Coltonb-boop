@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```
 const canadian = {
   pronouns: 'he' | 'him',
   code: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Ruby', 'C#', 'SQL', 'Java'],
@@ -10,3 +11,4 @@ const canadian = {
     testing: ['Storybook', 'Cypress', 'Jest', 'Mocha & Chai'], 
   }
 }
+```
